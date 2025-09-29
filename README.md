@@ -31,3 +31,4 @@ React	Frontend (optional)
 Add one more tool you’re using (e.g., Docker, Hibernate, AWS).
 
 # 📂 Project Structure
+<img width="579" height="606" alt="Screenshot 2025-09-29 134731" src="https://github.com/user-attachments/assets/39abb38e-d46a-41f1-9cba-e9d7aa2ac0c7" />
